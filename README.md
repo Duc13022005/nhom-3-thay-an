@@ -455,8 +455,3 @@ if __name__ == "__main__":
 6.  **Kiểm tra ACL:** Mở **Command Prompt** trên máy trạm `PC-ATM` và gõ lệnh `ping 192.168.10.10` (Ping sang phòng Giám đốc). Xác nhận kết quả trả về là `Request timed out` (Chặn thành công).
 
 ---
-
-## 9. Thành viên thực hiện dự án (Nhóm 3)
-*   **Sinh viên thực hiện:** Nguyễn Đức - Mã SV: ...
-*   **Giảng viên hướng dẫn:** Thầy Nguyễn Văn An
-*   **Đơn vị:** Khoa Công nghệ thông tin - Trường Đại học Đại Nam (DNU)
